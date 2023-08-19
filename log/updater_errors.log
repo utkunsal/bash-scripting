@@ -1,0 +1,18 @@
+fatal: unable to access 'https://github.com/Homebrew/brew/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Homebrew/homebrew-cask/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Homebrew/homebrew-cask-versions/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Homebrew/homebrew-core/': Could not resolve host: github.com
+fatal: unable to access 'https://github.com/Homebrew/homebrew-services/': Could not resolve host: github.com
+Error: Fetching /opt/homebrew failed!
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-cask failed!
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-cask-versions failed!
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-core failed!
+Fetching /opt/homebrew/Library/Taps/homebrew/homebrew-services failed!
+Failed to download https://formulae.brew.sh/api/formula.jws.json!
+Failed to download https://formulae.brew.sh/api/cask.jws.json!
+Failed to download https://formulae.brew.sh/api/formula_tap_migrations.jws.json!
+Failed to download https://formulae.brew.sh/api/cask_tap_migrations.jws.json!
+Installing from the API is now the default behaviour!
+You can save space and time by running:
+  brew untap homebrew/core
+  brew untap homebrew/cask
