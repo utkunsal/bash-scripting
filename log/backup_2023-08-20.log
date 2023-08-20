@@ -1,0 +1,22 @@
+building file list ... done
+created directory backup/current
+./
+example1.log
+example1.log.tar.gz
+example2.log
+example2.log.tar.gz
+example3.log
+example3.log.tar.gz
+example4.log
+example4.log.tar.gz
+example5.log
+example5.log.tar.gz
+example6.txt
+
+sent 2725 bytes  received 268 bytes  5986.00 bytes/sec
+total size is 1933  speedup is 0.65
+building file list ... done
+example6.txt
+
+sent 339 bytes  received 42 bytes  762.00 bytes/sec
+total size is 1940  speedup is 5.09

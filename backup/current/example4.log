@@ -1,0 +1,4 @@
+Aug 17 18:34:56 myserver sshd[1234]: Failed password for user john from 
+192.168.1.150 port 22
+Aug 17 20:45:23 myserver audit: USER_LOGIN_SUCCESS: john logged in from 
+192.168.1.100

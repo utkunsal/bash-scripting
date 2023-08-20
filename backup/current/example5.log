@@ -1,0 +1,3 @@
+2023-08-17 10:23:45 UTC LOG:  database system is ready to accept 
+connections
+2023-08-17 11:34:56 UTC ERROR:  relation "customers" does not exist
